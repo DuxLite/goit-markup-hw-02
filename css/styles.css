@@ -78,10 +78,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
-  border: none;
   cursor: pointer;
-  text-transform: uppercase;
-  transition: background-color 0.3s ease, transform 0.2s ease;
   background-color: #4d5ae5
 }
 
